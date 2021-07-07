@@ -71,3 +71,16 @@ public class Craps
         }
     }
 }
+
+
+/* 
+
+COMMENTS FROM THE INSTRUCTOR:
+
+Jason, you don't have a Craps game in here! What's going on?
+Come see me!
+
+SCORE: 1/20
+
+*/
+
